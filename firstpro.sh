@@ -1,1 +1,1 @@
-echo "github,jenkins....!"
+echo "github,jenkins....on commit!"
